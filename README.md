@@ -208,5 +208,5 @@ Nếu bạn chưa có camera hoặc muốn test nhanh tính năng chiếu Hologr
 ## 📜 Giấy phép & Tác giả
 
 * **Repository**: [https://github.com/KaitoEight/Hologram.git](https://github.com/KaitoEight/Hologram.git)
-* **Author**: Senior Software Engineer & Computer Graphics Developer
+* **Author**: Le Minh Khanh
 * **License**: Dự án mở phục vụ mục đích nghiên cứu, học tập và chế tạo thiết bị Hologram tương tác không chạm.
